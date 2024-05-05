@@ -2,4 +2,6 @@
   "url": "https://t.me/LPvenBot",
   "name": "LPven Bot",
   "iconUrl": "https://raw.githubusercontent.com/migavrilov/LPven/main/New%20Project%20(9).png",
+  "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/terms-of-use.txt",
+  "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/privacy-policy.txt"
 }
